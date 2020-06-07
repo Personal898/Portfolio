@@ -1,0 +1,32 @@
+https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/cyborg/bootstrap.min.css
+
+
+
+a:link {
+  color: green;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+
+flex-wrap: nowrap | wrap | wrap-reverse
+
+.flex-container {
+  flex-wrap: wrap;
+}
+.flex-container2 {
+  flex-wrap: wrap-reverse;
+}
