@@ -1,0 +1,36 @@
+
+
+body {
+font: Lacquer;
+}
+
+h1 {
+  border-color: black;
+  border-width: 5px;
+  border-style: dashed;
+  background-position: center;
+  background-color: #742599;
+  text-align: center;
+  color: white;
+  font-family: monospace;
+
+}
+
+.footer {
+  display: flex;
+  height: 50px;
+  text-align: center;
+  padding-top: 10px 10px;
+  border-color: #742599;
+  border-width: 3px;
+  border-style: dashed;
+  font-family: fantasy;
+  background-position: bottom;
+
+}
+.contactinfo {
+
+  border-color: red;
+  border-width: 5px;
+  border-style: dashed;
+}
