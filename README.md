@@ -1,43 +1,92 @@
-# portfolio-v001
+*******************************************************************************
+*******************************************************************************
+*                                                                             *
+*                                Objective                                    *
+*                                                                             *
+*******************************************************************************
+*******************************************************************************
 
-LEARN portfolio starter template using HTML, CSS, and Bootstrap. Clone this repo, open up the 3 html files (index.html, work.html, contact.html), and start customizing colors, content, and images.
+Xena O. Sitnikova
 
-## Features
+Full Stack Web Developer coming from the background of solving problems and prioritization of team goals.
 
-- Fully responsive
-- Add your contact info
-- Add you work and links to your projects
-- Add your images
-- Add your work experience
+Besides many transferable skills that align with Web Development, such as compassion for learning, attention to detail, perseverance in problem solving and persistence in organizing, there is also a mindset that there are no unsolvable problems.
 
-## Home
+Currently working on optimizing and shaping skills in creating MERN (MongoBD, Express, React, Nodejs) app.
 
-- Add an image of yourself
-- Add your name to the navigation and header
-- Add your contact info in the list-group under the image
-- Add your name to the header
-- Add your name to the footer
-- Add a blurb intro about yourself
+*******************************************************************************
+*******************************************************************************
+*                                                                             *
+*                             Work Experience                                 *
+*                                                                             *
+*******************************************************************************
+*******************************************************************************
 
-## Work
+Evealed. San Diego, CA
+04/2020 - Present time Full Stack Developer
+    - Gained experience working with MERN Applications.
+    - Created & connected  back-end and front-end with Nodejs, MongoDB, Express, React app.
+    - Optimized quality in reading code.
 
-- Add your projects (screenshot, name, description, and link to github project
-- Add your work experience
-- Add your name to nav and footer
 
-## Contact
+LEARN Academy, San Diego, CA
+11/2019 - 04/2020 Full Stack Developer
+    - Accumulated near 500 hours of direct coding experience.
+    - At an accelerated rate of high-impact learning have built 10 applications at a professional level.
+    - Crated Apps with React framework using Webpack, Postgres Database and AWS infrastructure.
+    - Used latest hard technical skills that match the current technologies such as React, Rails, JavaScript, Sass.
+    - Worked in VCS Github on 2 project for a rapid project development.
+    - Skill strengthening in delegation, team communication and conflict resolution in pair and mob programming as well as within a team.
+    - Rapid adaptation from on site to remote work.
 
-- Add an image
-- Add your contact information
-- Add your name to nav and footer
 
-## How to make your portfolio better
+Rosneftegaz Co., Noviy Urengoi, Russia
+09/2017 - 12/2019 Project Lead
+    - Initiated a new launch of automation program that reduced time in task processing by more than 50%
+    - Created and after delegated presentation on the use of the new program.
+    - Managed a team who investigated problems and established project recovery plans for more than 30 gas stations and 10 petrol bases.
+    - Created rapid financial reporting systems from gas stations for faster data analysis for timely problem solving.
+    - Closely collaborated with project members to identify and quickly address unexpected situations.
 
-- Change colors (look into adding a Bootswatch theme, or try visiting coolors.co to pick a color scheme)
-- Add links
-- Add work experience
-- Add links to your projects
-- Add your technical knowledge
-- Add your name to the nav and footer
-- Add animations
-- Add a form for people to email you on the contact page
+
+*******************************************************************************
+*******************************************************************************
+*                                                                             *
+*                             Education                                       *
+*                                                                             *
+*******************************************************************************
+*******************************************************************************
+
+          2004 - 2008
+          Bachelor of Science: Psychology
+          San Diego State University
+          San Diego, CA
+
+*******************************************************************************
+*******************************************************************************
+*                                                                             *
+*                               Skills                                        *
+*                                                                             *
+*******************************************************************************
+*******************************************************************************
+
+           Front END: HTML, CSS, JavaScript, React, Webpack, Bootstrap, Reactstrap
+            Back END: Ruby on Rails, NodeJS
+            DATABASE: MongoDB, Postgres
+             DEV OPS: AWS, GitHUB, GitLab
+    TEST  Frameworks: Rspec, Jest
+
+*******************************************************************************
+*******************************************************************************
+*                                                                             *
+*                      Contact and other information                          *
+*                                                                             *
+*******************************************************************************
+*******************************************************************************
+
+          www.xenaDev.com
+          GITHUB.com/sxena
+          LinkedIn.com/in/sxena/
+          (212) 920-4987
+          xenaDev@xenaDev.com
+          twitter.com/sxena89
